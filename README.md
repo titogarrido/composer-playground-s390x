@@ -1,13 +1,13 @@
 # Usage
 
 ```
-docker run -it -p 8080:8080 titogarrido/composer-playground-s390x
+docker run -it -p 8080:8080 titogarrido/composer-playground-s390x:0.19.5
 ```
 
 or daemon mode:
 
 ```
-docker run -dit -p 8080:8080 titogarrido/composer-playground-s390x
+docker run -dit -p 8080:8080 titogarrido/composer-playground-s390x:0.19.5
 ```
 
 This port is based on:
